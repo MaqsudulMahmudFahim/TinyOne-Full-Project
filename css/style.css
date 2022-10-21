@@ -1,0 +1,196 @@
+/*common start*/
+body{
+   font-family: 'PT Sans', sans-serif; 
+   font-size: 16px;
+   font-weight: 400;
+   color:#555555;
+}
+
+
+/*header css start*/
+header{
+   padding: 20px 0;
+   background-color: #fcdb00;
+}
+.c_nav{}
+.logo{}
+.menu ul li a{
+   padding-right: 75px !important;
+   font-family: 'PT Sans', sans-serif; 
+   font-size: 22px;
+   font-weight: 700;
+   color: #010101 !important;
+}
+.menu ul li:last-child a{
+   padding-right: 0 !important;
+}
+.menu ul li a:hover{
+   color: #ffffff !important;
+}
+/*header css end*/
+
+/*slider start*/
+.slider{
+   padding-bottom: 100px;
+   background-color: #fcdb00;
+}
+.s-text h1{
+   padding: 70px 0 20px;
+   font-size: 32px;
+   font-weight: 700;
+   color: #010101 ;
+}
+.s-text h2{
+   padding-bottom: 10px;
+   font-size: 20px;
+   font-weight: 400;
+   color: #313841;
+}
+
+.s-text p{
+   padding-bottom: 30px;
+   font-size: 16px;
+   font-weight: 400;
+   color: #555555;
+}
+
+.s-text i{
+   padding-right: 25px;
+   font-size: 42px;
+   color: #010101;
+   transition: .3s;
+}
+
+.s-text i:hover{
+   transform: scale(0.5);
+}
+.c-indicator {
+   
+   bottom: -82px;
+  
+}
+
+.c-indicator [data-bs-target] {
+   
+   width: 10px;
+   height: 10px;
+   border-radius: 50%;
+}
+
+/*slider end*/
+
+/*feature start*/
+
+.feature{
+   padding: 90px 0 110px;
+}
+.t_feature{}
+.t_feature h1{
+   margin-bottom: 30px;
+   font-family: 'PT Sans', sans-serif; 
+   font-size: 32px;
+   font-weight: 700;
+   color: #010101;
+}
+.t_feature p{
+   font-size: 20px;
+   color: #313841;
+}
+
+.f_content{
+   margin-top: 80px;
+}
+.f_icon{}
+.f_text{}
+.f_text h2{
+
+   font-size: 22px;
+   color: #010101;
+}
+.f_text p{
+   color: #898989;
+}
+
+
+/*feature end*/
+
+/*contact start*/
+
+.contact{
+   padding-top: 100px;
+   padding-bottom: 120px;
+   background-color: #010101;
+}
+
+.contact_head h1{
+   color: #fcdb00;
+}
+
+.contact_head p{
+   margin-bottom: 35px;
+}
+
+
+.con_form{
+ 
+  margin-bottom: 80px;
+  height:50px;
+  font-family: 'PT Sans', sans-serif; 
+  font-size: 16px;
+  font-weight: 400;
+  color:#555555;
+}
+
+.btn_contact{
+   padding: 5 20px;
+   width: 133px;
+   height: 50px;
+   background-color: #fcdb00;
+   font-family: 'PT Sans', sans-serif; 
+  font-size: 16px;
+  font-weight: 700;
+  color: #010101;
+}
+
+.btn_contact:hover{
+   background-color: #ffffff;
+}
+
+.icon{}
+.icon ul li a{
+   margin-right: 35px !important;
+   font-size: 42px;
+   color: #fcdb00;
+}
+.icon ul li a:hover{
+  color: #ffffff;
+}
+.icon ul li:last-child{
+   margin-right: 0 !important;
+}
+
+/*contact end*/
+
+/*footer start*/
+.footer{
+   background-color: #010101;
+}
+
+.fot-content{}
+.fot-content p{
+  color: #ffffff !important;
+}
+
+.fot-content a{
+   text-decoration: none;
+   color: #ffffff !important;
+}
+
+.fot-content a:hover{
+   color: #fcdb00 !important;
+}
+
+
+
+/*footer end*/
+

@@ -1,0 +1,32 @@
+Fonts----
+
+Pt sans bold 
+pt sans regular 
+
+
+color-----
+
+yellow #fcdb00
+header content color black #010101
+blue #313841
+
+paragraph color #555555
+
+paragraph  below #898989
+
+footer #ffffff
+
+<div class="row justify-content-center">
+         <div class="col-4">
+          <div class="contact_icon">
+            <div class="row">
+            <div class="col-3"><i class="fa-brands fa-square-facebook"></i></div>
+            <div class="col-3"><i class="fa-brands fa-square-twitter"></i></div>
+            <div class="col-3"><i class="fa-brands fa-square-instagram"></i></div>
+            <div class="col-3"><i class="fa-brands fa-square-pinterest"></i></div>
+          </div>
+          </div>
+         </div>
+      </div>
+      </div>
+    </section>

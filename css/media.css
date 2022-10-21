@@ -1,0 +1,186 @@
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+      /*header start*/
+      header {
+        padding: 0 0;
+        
+      }
+      .menu ul li a {
+         font-size: 18px;
+     }
+      /*slider styart*/
+      .s-text h1 {
+        padding: 20px 0 20px;
+       
+    }
+
+    /*feature start*/
+      .feature {
+      padding: 60px 0 80px;
+     }
+
+     .f_content {
+      margin-top: 50px;
+  }
+
+  /*contact part*/
+
+  .con_form {
+    margin-bottom: 10px;
+  
+  }
+.btn_contact {
+  margin-bottom: 32px;
+}
+
+.icon ul li a {
+  margin-right: 15px !important;
+  font-size: 35px;
+
+}
+
+.contact {
+  padding-bottom: 60px;
+
+}
+
+/*footer part*/
+
+.fot-content {
+  padding-bottom: 45px;
+  margin-left: 30px;
+}
+}
+
+      
+
+    
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+     /*header start*/
+     header {
+      padding: 0 0;
+      
+    }
+     .menu ul li a {
+      font-size: 18px;
+  }
+ 
+    /*slider styart*/
+    .s-text h1 {
+      padding: 20px 0 20px;
+      font-size: 26px;
+     
+  }
+
+  .s-text h2 {
+   
+    font-size: 18px;
+}
+
+.s-text p {
+  font-size: 15px;
+}
+
+/*feature start*/
+.feature {
+  padding: 60px 0 80px;
+}
+
+.f_content {
+  margin-top: 50px;
+}
+
+/*contact part*/
+
+.contact {
+  padding-bottom: 60px;
+
+}
+
+.con_form {
+  margin-bottom: 10px;
+
+}
+.btn_contact {
+  margin-bottom: 32px;
+}
+
+.icon ul li a {
+  margin-right: 15px !important;
+  font-size: 30px;
+
+}
+
+/*footer part*/
+
+.fot-content {
+    padding-bottom: 45px;
+    margin-left: 65px;
+}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px){ 
+   /*header start*/
+   header {
+    padding: 10px 0;
+    
+  }
+   .menu ul li a {
+      padding: 5px 0px !important;
+      
+  }
+
+    /*slider styart*/
+    .s-text h1 {
+      padding: 40px 0 20px;
+     
+  }
+
+  /*feature start*/
+  .feature {
+    padding: 75px 0 90px;
+}
+
+.f_content {
+  margin-top: 60px;
+}
+
+/*contact start*/
+
+.contact {
+  padding-top: 70px;
+  padding-bottom: 55px;
+
+}
+
+
+.t_feature p {
+  margin-bottom: 40px;
+}
+.con_form {
+  margin-bottom: 35px;
+}
+.btn_contact {
+  margin-bottom: 40px;
+}
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    /*contact start*/
+
+}
+/* Extra Large devices (desktops, 992px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+    
+}
+
+/*Extra Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+
+}
